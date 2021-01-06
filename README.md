@@ -29,3 +29,4 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 | |First Name  | Last Name |Username | Meme |
 |--|--|--|--|--|
 | 1 | Dhairya |Ostwal|[dhairyaostwal]()|![meme for freshers](./memeImages/memeByDhairya.png)|
+| 2 | Nirad | Yeola |[nirad17]()|![meme for freshers](./memeImages/memebyNirad.jpg)|
