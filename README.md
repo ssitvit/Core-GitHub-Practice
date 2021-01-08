@@ -34,3 +34,4 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 | 4 | Test |Test|[Test]()|![testMeme](./memeImages/testMeme.jpeg)|
 | 5 | Alok |Mathur|[alokm]()|![meme for freshers](./memeImages/memebyalokmathur.JPG)|
 | 6 | Aditya |Jain|[adityajain](https://github.com/Aditya0908/)|![meme for freshers](./memeImages/memebyaditya.jpg)
+| 7 | Nirad |Yeola|[nirad17](https://github.com/nirad17/)|![meme for freshers](./memeImages/memebyNirad.jpg)|
