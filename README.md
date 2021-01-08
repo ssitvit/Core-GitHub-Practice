@@ -35,4 +35,5 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 | 5 | Alok |Mathur|[alokm]()|![meme for freshers](./memeImages/memebyalokmathur.JPG)|
 | 6 | Aditya |Jain|[adityajain](https://github.com/Aditya0908/)|![meme for freshers](./memeImages/memebyaditya.jpg)
 | 7 | Nirad |Yeola|[nirad17](https://github.com/nirad17/)|![meme for freshers](./memeImages/memebyNirad.jpg)|
-| 8 | Priyanka |Govindarajan|[priyanka-111-droid]()|![meme for freshers](./memeImages/memebypriyanka.jpg)|
+| 8 | Shreyansh |Singh|[SHREYANSHSINGH14](https://github.com/SHREYANSHSINGH14/)|![meme for freshers](./memeImages/memebyshreyansh.png)|
+| 9 | Priyanka |Govindarajan|[priyanka-111-droid]()|![meme for freshers](./memeImages/memebypriyanka.jpg)|
