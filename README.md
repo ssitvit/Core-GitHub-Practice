@@ -29,4 +29,4 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 | |First Name  | Last Name |Username | Meme |
 |--|--|--|--|--|
 | 1 | Dhairya |Ostwal|[dhairyaostwal]()|![meme for freshers](./memeImages/memeByDhairya.png)|
-| 2 | Aditya |Jain|[adityajain]()|(./memeImages/memebyaditya.jpg)|
+| 2 | Aditya |Jain|[adityajain]()|(C:\Users\lenovo\Desktop\Core-GitHub-Practice\Core-GitHub-Practice\memeImages)|
