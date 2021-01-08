@@ -38,4 +38,4 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 | 8 | Shreyansh |Singh|[SHREYANSHSINGH14](https://github.com/SHREYANSHSINGH14/)|![meme for freshers](./memeImages/memebyshreyansh.png)|
 | 9 | Naman |Jain|[naman26jain](https://github.com/naman26jain/)|![meme for freshers](./memeImages/memeByNaman.png)|
 | 10 | Priyanka |Govindarajan|[priyanka-111-droid]()|![meme for freshers](./memeImages/memebypriyanka.jpg)|
-| 11 | Sambhav |Mahajan|[sambhavmahajan11](https://github.com/sambhavmahajan11/)|![meme for freshers](./memeImages/memebysambhav.jpeg)|
+| 11 | Sambhav |Mahajan|[sambhavmahajan11](https://github.com/sambhavmahajan11/)|![meme for freshers](./memeImages/memebysambhav.JPG)|
