@@ -36,5 +36,4 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 | 6 | Aditya |Jain|[adityajain](https://github.com/Aditya0908/)|![meme for freshers](./memeImages/memebyaditya.jpg)
 | 7 | Nirad |Yeola|[nirad17](https://github.com/nirad17/)|![meme for freshers](./memeImages/memebyNirad.jpg)|
 | 8 | Shreyansh |Singh|[SHREYANSHSINGH14](https://github.com/SHREYANSHSINGH14/)|![meme for freshers](./memeImages/memebyshreyansh.png)|
-| 8 | Shreyansh |Singh|[SHREYANSHSINGH14](https://github.com/SHREYANSHSINGH14/)|![meme for freshers](./memeImages/memebyshreyansh.png)|
 | 9 | Naman |Jain|[naman26jain](https://github.com/naman26jain/)|![meme for freshers](./memeImages/memeByNaman.png)|
