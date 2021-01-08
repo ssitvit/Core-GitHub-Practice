@@ -39,3 +39,4 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 | 9 | Naman |Jain|[naman26jain](https://github.com/naman26jain/)|![meme for freshers](./memeImages/memeByNaman.png)|
 | 10 | Priyanka |Govindarajan|[priyanka-111-droid]()|![meme for freshers](./memeImages/memebypriyanka.jpg)|
 | 11 | Sambhav |Mahajan|[sambhavmahajan11](https://github.com/sambhavmahajan11/)|![meme for freshers](./memeImages/memebysambhav.JPG)|
+| 12 | Asmit | Pandey | [Asmit061](https://github.com/Asmit061/)|![meme for freshers](./memeImages//memebyAsmit.jpg)|
