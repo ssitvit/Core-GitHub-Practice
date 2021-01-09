@@ -41,4 +41,4 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 | 11 | Sambhav |Mahajan|[sambhavmahajan11](https://github.com/sambhavmahajan11/)|![meme for freshers](./memeImages/memebysambhav.JPG)|
 | 12 | Asmit | Pandey | [Asmit061](https://github.com/Asmit061/)|![meme for freshers](./memeImages//memebyAsmit.jpg)|
 | 13 | Gunjan Raj | Tiwari | [gunjanrajtiwari](https://github.com/gunjanrajtiwari/)|![meme for freshers](./memeImages//memeByGunjan.png
-| 14  | Tirth | Patel|[Tirth22](https://github.com/Tirth22/)|![meme for freshers](./memeImages/memebytirth.jpeg)
+| 14  | Tirth | Patel|[Tirth22](https://github.com/Tirth22/)|![meme for freshers](./memeImages/memebytirth.jpg)
