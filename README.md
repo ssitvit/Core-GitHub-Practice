@@ -46,3 +46,4 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 | 16 | Ayush | Garg | [ayush0309](https://github.com/ayush0309) | ![meme for freshers](./memeImages/memeByAyush.png)
 | 17 | Prashant | Raj | [NightCrawler07](https://github.com/NightCrawler07) | ![meme for freshers](./memeImages/memebyprashant.jpeg)
 | 18 | Shresth | Khandelwal | [shresthkhandelwal](https://github.com/shresthkhandelwal) | ![meme for freshers](./memeImages/memebyshresth.jpg)
+| 19 | Rohit | Yadav | [Rohityadav0412](https://github.com/rohityadav0412) | ![meme for freshers](./memeImages/memebyrohityadav.jpg)
