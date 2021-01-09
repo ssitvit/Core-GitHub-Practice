@@ -51,4 +51,4 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 | 21  | Devansh    | Mudgal       | [DevanshMudgal](https://github.com/DevanshMudgal/)        | ![meme for freshers](./memeImages/memebyDevanshM.jpeg)       |
 | 22  | Rohit      | Yadav        | [Rohityadav0412](https://github.com/rohityadav0412)       | ![meme for freshers](./memeImages/memebyrohityadav.jpg)      |
 | 23  | Abhinav    | Gorantla     | [AbhinavGor](https://github.com/AbhinavGor)               | ![meme for freshers](./memeImages/memeByAbhinav.jpg)         |
-| 24  | Shubh       | Mittal      | [ShubhMittal](https://github.com/ShubhMittal44)           | ![meme for freshers](./memeImages/testmeme.jpeg)             |
+| 24  | Shubh       | Mittal      | [ShubhMittal](https://github.com/ShubhMittal44)           | ![meme for freshers](./memeImages/testMeme.jpeg)             |
