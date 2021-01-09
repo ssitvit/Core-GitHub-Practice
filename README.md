@@ -42,4 +42,4 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 | 12 | Asmit | Pandey | [Asmit061](https://github.com/Asmit061/)|![meme for freshers](./memeImages//memebyAsmit.jpg)|
 | 13 | Gunjan Raj | Tiwari | [gunjanrajtiwari](https://github.com/gunjanrajtiwari/)|![meme for freshers](./memeImages//memeByGunjan.png
 | 14  | Tirth | Patel|[Tirth22](https://github.com/Tirth22/)|![meme for freshers](./memeImages/memebytirth.jpg)
-| 15 | Swati | Rai |[swati1901](https://github.com/swati1901/)|![meme for freshers](./memeImages/memeByDhairya.PNG)
+| 15 | Swati | Rai |[swati1901](https://github.com/swati1901/)|![meme for freshers](./memeImages/memeByDhairya.png)
