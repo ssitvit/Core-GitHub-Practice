@@ -49,5 +49,4 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 | 19 | Aditya | Kumar |[harshchef](https://github.com/harshchef/)|![meme for freshers](./memeImages/meme_by_aditya_kumar.jpeg)
 | 20 | Shivalika | singh | [Shivalikasingh92](https://github.com/Shivalikasingh92) | ![meme for freshers](./memeImages/memebyShivalika.jpg)
 | 21 | Devansh |Mudgal|[DevanshMudgal](https://github.com/DevanshMudgal/)|![meme for freshers](./memeImages/memebyDevanshM.jpeg)|
-
-
+| 22 | Rohit | Yadav | [Rohityadav0412](https://github.com/rohityadav0412) | ![meme for freshers](./memeImages/memebyrohityadav.jpg)
