@@ -44,4 +44,11 @@ Read about markdown syntax [HERE](https://github.com/adam-p/markdown-here/wiki/M
 | 14  | Tirth | Patel|[Tirth22](https://github.com/Tirth22/)|![meme for freshers](./memeImages/memebytirth.jpg)
 | 15 | Swati | Rai |[swati1901](https://github.com/swati1901/)|![meme for freshers](./memeImages/memeByDhairya.png)
 | 16 | Ayush | Garg | [ayush0309](https://github.com/ayush0309) | ![meme for freshers](./memeImages/memeByAyush.png)
+<<<<<<< HEAD
+=======
+| 17 | Prashant | Raj | [NightCrawler07](https://github.com/NightCrawler07) | ![meme for freshers](./memeImages/memebyprashant.jpeg)
+| 18 | Shresth | Khandelwal | [shresthkhandelwal](https://github.com/shresthkhandelwal) | ![meme for freshers](./memeImages/memebyshresth.jpg)
+| 19 | Aditya | Kumar |[harshchef](https://github.com/harshchef/)|![meme for freshers](./memeImages/meme_by_aditya_kumar.jpeg)
 | 20 | Shivalika | singh | [Shivalikasingh92](https://github.com/Shivalikasingh92) | ![meme for freshers](./memeImages/memeByShivalika.jpg)
+
+>>>>>>> eff8b771942332771c9b50f5a0cbb1333f96f1f2
