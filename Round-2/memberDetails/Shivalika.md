@@ -1,6 +1,6 @@
 ---
-name:TEST
-branch:CSE(Core)
-quote:"Test"
-github:practice
+name: Shivalika singh
+branch: CSE(Core)
+quote: "Practice makes a man perfect"
+github: Shivalikasingh92
 ---
